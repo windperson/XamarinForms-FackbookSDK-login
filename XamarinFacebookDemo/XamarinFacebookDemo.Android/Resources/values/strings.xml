@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">XamarinFacebookDemo</string>
+  <string name="facebook_app_id">**** Replace with FB AppID ***</string>
+  <string name="fb_login_protocol_scheme">fb**** Replace with FB AppID ***</string>
+</resources>
